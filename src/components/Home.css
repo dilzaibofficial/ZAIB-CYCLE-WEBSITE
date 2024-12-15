@@ -1,0 +1,129 @@
+/* write css code of home.css */
+
+body {
+  overflow-x: hidden;
+}
+
+.banner {
+  /* Custom CSS removed */
+}
+
+.slider {
+  /* Custom CSS removed */
+}
+
+.slider img {
+  /* Custom CSS removed */
+}
+
+.slider .prev, .slider .next {
+  /* Custom CSS removed */
+}
+
+.slider .prev {
+  /* Custom CSS removed */
+}
+
+.slider .next {
+  /* Custom CSS removed */
+}
+
+.product-card {
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.product-card .details {
+  padding: 10px;
+  text-align: center;
+}
+
+.product-card .details h3 {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.product-card .details p {
+  color: #777;
+  font-size: 0.9em;
+}
+
+.product-card .details .price {
+  color: #e91e63;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.cycle-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.cycle-card {
+  width: 100%;
+  max-width: 300px;
+  height: 350px;
+  margin: 20px auto; /* Center the cards and add margin */
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cycle-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.cycle-card h3 {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.cycle-card p {
+  color: #777;
+  font-size: 0.9em;
+}
+
+.cycle-card .price {
+  color: #e91e63;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.cycle-card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.cycle-card .card-title {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.cycle-card .card-text {
+  flex-grow: 1;
+}
+
+.cycle-card .btn {
+  margin-top: 10px;
+}
