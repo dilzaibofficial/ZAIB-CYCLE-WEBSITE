@@ -41,6 +41,9 @@ Zaib Cycle Website is a full-stack e-commerce platform for buying and selling bi
 ### Product Listing
 ![Product Listing](screenshots/products.png)
 
+![banner2](https://github.com/user-attachments/assets/1a1773ec-db0b-443f-8538-45043012ba08)
+
+
 ### Payment
 ![Product Listing](screenshots/payment.png)
 
